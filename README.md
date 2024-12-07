@@ -1,4 +1,7 @@
-### Hi! I am İrem and I am a freshman computer science student at Bilkent University.
+### Hi! I am İrem, a computer science student at Bilkent University.
+### You can contact me via [mail](mailto:iremesendemir04@gmail.com)
+![](https://komarev.com/ghpvc/?username=iremEsendemir&color=red)
+
 
 <!--
 **iremEsendemir/iremEsendemir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
